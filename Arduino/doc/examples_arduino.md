@@ -45,4 +45,4 @@ In this example we can make the RGB Matrix display 19 preset graphics one by one
 
 ## More Detail
 
-Check the [API File](sled_func).
+Check the [API File](sled_func.md).
