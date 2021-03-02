@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\pisloth"
+		},
+		{
+			"path": "..\\..\\picrawler"
+		},
+		{
+			"path": "..\\..\\PiArm\\piarm"
+		},
+		{
+			"path": "..\\..\\SunFounder_PiCar-S"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\picar-x"
+		}
+	],
+	"settings": {}
+}
