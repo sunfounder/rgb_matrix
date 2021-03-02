@@ -176,4 +176,4 @@ At last, `<finish>`.
 
 ![assemble](images/assemble_raspberrypi.png)
 
-Now,you can run [examples](examples_rpi).
+Now,you can run [examples](examples_rpi.md).

@@ -60,4 +60,4 @@ Return to the Sketch > Include Library menu. menu. You should now see the librar
 
 ![assemble](images/assemble_arduino.png)
 
-Now,you can run [examples](examples_arduino).
+Now,you can run [examples](examples_arduino.md).

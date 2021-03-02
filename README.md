@@ -21,11 +21,11 @@ Follow the steps below and you will be able to use RGB Matrix immediately. have 
 
 ## Getting Started For Arduino
 
-1.  Go to [Setup](Arduino\doc\setup_arduino).
-2.  Run [Examples](Arduino\doc\examples_arduino).
+1.  Go to [Setup](Arduino\doc\setup_arduino.md).
+2.  Run [Examples](Arduino\doc\examples_arduino.md).
 
 ## Getting Started For Raspberry Pi 
 
-1.  Go to [Setup](Raspberrypi\doc\setup_rpi).
-2.  Run [Examples](Raspberrypi\doc\examples_rpi).
+1.  Go to [Setup](Raspberrypi\doc\setup_rpi.md).
+2.  Run [Examples](Raspberrypi\doc\examples_rpi.md).
 
