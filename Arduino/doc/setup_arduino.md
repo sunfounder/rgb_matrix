@@ -48,6 +48,8 @@ In the Arduino IDE, navigate to Sketch > Include Library > Add .ZIP Library. At 
 You will be prompted to select the library you would like to add. Here we find **lib.zip** (In the *RGB_Matrix_lib\Arduino* in the folder you just downloaded) . Navigate to the .zip file's location and open it.
 ![library](images/libraries.png)
 
+The message "Library added to your libraries. Check 'Include library' menu" will appear in the IDE.
+
 Return to the Sketch > Include Library menu. menu. You should now see the library at the bottom of the drop-down menu. It is ready to be used in your sketch. The zip file will have been expanded in the libraries folder in your Arduino sketches directory.
 
 >The Library will be available to use in sketches, but with older IDE versions examples for the library will not be exposed in the File > Examples until after the IDE has restarted.

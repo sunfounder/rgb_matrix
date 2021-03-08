@@ -1,4 +1,4 @@
-#include "sled1734.h"
+#include "rgbMatrix.h"
 #include "Arduino.h" 
 
 #define CONFIGURE_CMD_PAGE 0XFD
