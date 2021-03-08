@@ -23,7 +23,7 @@ git clone https://github.com/sunfounder/rgb_matrix
 Change directory to RGB Matrix sample folder：
 
 ```
-cd /RGB_Matrix_lib/Raspberrypi/example
+cd /rgb_matrix/Raspberrypi/example
 ```
 >cd, short for change directory is to change from the current path to the intended directory. 
 
