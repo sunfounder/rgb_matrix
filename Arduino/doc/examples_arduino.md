@@ -1,7 +1,7 @@
 # Examples
 This page show you the examples provided with RGB Matrix.
 
-> Please make sure you have successfully loaded the library file into the Arduino IDE, as shown in [setup](setup_arduino).
+> Please make sure you have successfully loaded the library file into the Arduino IDE, as shown in [setup](setup_arduino.md).
 
 > For the basic knowledge of Arduino, please refer to [HERE](https://www.arduino.cc/en/Tutorial/Foundations).
 
