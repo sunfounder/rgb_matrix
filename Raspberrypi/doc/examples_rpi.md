@@ -1,7 +1,7 @@
 # Examples
 This page show you the examples provided with RGB Matrix
 
-> Make sure your Rapsberry Pi OS is fully installed as shown in [setup](setup_rpi).  
+> Make sure your Rapsberry Pi OS is fully installed as shown in [setup](setup_rpi.md).  
 
 
 
