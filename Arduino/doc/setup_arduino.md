@@ -25,9 +25,9 @@ The APP you have to prepare:
 ## Setup
 <a id="21"></a>
 ### Install Arduino IDE
-* For Windows OS user, please click [HERE](https://support.arduino.cc/hc/en-us/articles/360013825219-How-to-install-the-Arduino-IDE-on-Windows-PCs).  
-* For Mac OS user, please click [HERE](https://support.arduino.cc/hc/en-us/articles/360013751960-How-to-install-Arduino-IDE-in-MAC-OS).  
-* For Linux OS user, please click [HERE](https://support.arduino.cc/hc/en-us/articles/360013825199-How-to-install-the-Arduino-IDE-in-linux).
+* For Windows OS user, please click [HERE](https://www.arduino.cc/en/Guide/Windows).  
+* For Mac OS user, please click [HERE](https://www.arduino.cc/en/Guide/MacOSX).  
+* For Linux OS user, please click [HERE](https://www.arduino.cc/en/Guide/Linux).
 
 -----
 <a id="22"></a>
