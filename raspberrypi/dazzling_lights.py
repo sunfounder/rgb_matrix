@@ -1,5 +1,4 @@
-from rgb_matrix import RGB_Matrix
-import time
+from rgb_matrix.rgb_matrix import RGB_Matrix
 
 # source: https://github.com/adafruit/Adafruit_NeoPixel/blob/216ccdbff399750f5b02d4cc804c598399e39713/Adafruit_NeoPixel.cpp#L2414
 

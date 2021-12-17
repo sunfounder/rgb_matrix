@@ -1,7 +1,6 @@
 import random
 
 
-
 def constrain(x, low, high):
     return min(max(x, low), high)
     

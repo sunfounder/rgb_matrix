@@ -1,4 +1,4 @@
-from rgb_matrix import RGB_Matrix
+from rgb_matrix.rgb_matrix import RGB_Matrix
 import time
 import numpy as np
 

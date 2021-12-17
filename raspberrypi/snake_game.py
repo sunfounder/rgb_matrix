@@ -1,8 +1,7 @@
 import sys
 import tty
 import termios
-import asyncio
-from rgb_matrix import RGB_Matrix
+from rgb_matrix.rgb_matrix import RGB_Matrix
 import numpy as np
 import time 
 import threading

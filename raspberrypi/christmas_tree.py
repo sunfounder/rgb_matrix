@@ -1,6 +1,6 @@
-from rgb_matrix import RGB_Matrix
-import time
-from color import Color
+from rgb_matrix.rgb_matrix import RGB_Matrix
+from rgb_matrix.color import Color
+
 
 def tree():
     

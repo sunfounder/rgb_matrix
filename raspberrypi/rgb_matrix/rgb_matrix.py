@@ -1,19 +1,17 @@
 import time
-from i2c import I2C
-from color import Color
+from .i2c import I2C
+from .color import Color
 # from sensor_hat.rgb_font import Alphabet, Icons
 import numpy as np
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
 import random
-class RGB_Matrix():
-    # width = 8
-    # height = 8
-    # image = Image.new('RGB', (width, height))
-    # draw = ImageDraw.Draw(image)
-    # font = ImageFont.truetype('/opt/ezblock/Minecraftia-Regular.ttf', 8)
+import os
 
+class RGB_Matrix():
+
+# constants
     CONFIGURE_CMD_PAGE = 0XFD
     FRAME1_PAGE = 0x00
     FRAME2_PAGE = 0x01
@@ -98,20 +96,21 @@ class RGB_Matrix():
     0x80, 0x81, 0x82, 0x83,    0x84, 0x85, 0x86, 0x87, 0x88, 0x89, 0x8A, 0x8B, 0x8E, 0x8F, # Blue D57~D70 PWM CTL Mapping address
     ]
 
-
+# init
     def __init__(self, addr):
         self.width = 8
         self.height = 8
         self.flag = True
         self.new_image = Image.new('RGB', (self.width, self.height))
         self.draw = ImageDraw.Draw(self.new_image)
-        self.font = ImageFont.truetype('./Minecraftia-Regular.ttf', 8)
+        # os.path.dirname(__file__) , Current file path
+        self.font = ImageFont.truetype(os.path.dirname(__file__)+'/Minecraftia-Regular.ttf', 8)
 
         self.bus = I2C()
         self.addr = addr
         # self.alphabet = Alphabet()
         # self.icons = Icons()
-
+        
         self.write_cmd(self.CONFIGURE_CMD_PAGE, self.FUNCTION_PAGE)  #Setting SLED1735 Ram Page to Function Page
         self.write_cmd(self.SW_SHUT_DOWN_REG, 0x0)  #System must go to SW shutdowm mode when initialization
         self.write_cmd(self.PICTURE_DISPLAY_REG, 0x10)  #Setting Matrix Type = Type3

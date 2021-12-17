@@ -1,5 +1,5 @@
-from rgb_matrix import RGB_Matrix
-from color import Color
+from rgb_matrix.rgb_matrix import RGB_Matrix
+from rgb_matrix.color import Color
 import time
 
 rr = RGB_Matrix(0x74)                     # create an RGB_Matrix object 
@@ -26,7 +26,6 @@ rr.draw_ellipse(ellipse_coor,radius,fill=(0,5,0))   #draw a ellipse
 rr.display()  #display the picture which you draw
 time.sleep(3)
 
-text = 'hi sir'
+text = 'hello'
 rr.show_text(text, delay=200,color=(0,15,0))   # show text 
 rr.display()
-time.sleep(4)
