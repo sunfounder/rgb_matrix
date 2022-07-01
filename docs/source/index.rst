@@ -1,10 +1,10 @@
-SunFounder RGB Matrix Module for Raspberry Pi and Arduino
+SunFounder RGB Matrix Module for Arduino
 ===========================================================
 Welcome to use SunFounder RGB Matrix module. You can find the information you need for use here.
 
 This is a module with 8 × 8 RGB LEDs on board. It also has a SH1.0-4P I2C control interface, which is convenient to connect to other I2C devices or other single-chip microcomputers.
 
-There are two versions of this module: Arduino and Raspberry Pi. Please refer to the correct chapter for your module.
+.. There are two versions of this module: Arduino and Raspberry Pi. Please refer to the correct chapter for your module.
 
 Here is the Email: cs@sunfounder.com.
 
@@ -12,9 +12,9 @@ Here is the Email: cs@sunfounder.com.
    :maxdepth: 3
 
    feature
-   play_with_raspberry_pi
-   play_with_arduino
-   faq
+   assemble_the_shield
+   preparation_arduino
+   examples_arduino
 
 
 Copyright Notice

@@ -17,9 +17,9 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'RGB Matrix Module'
+project = 'RGB Matrix Module for Arduino'
 copyright = '2021, SunFounder'
-author = 'Chris, SunFounder'
+author = 'SunFounder'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
