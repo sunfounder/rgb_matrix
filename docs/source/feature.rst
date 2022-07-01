@@ -12,8 +12,9 @@ Features
 * Pixel pitch: 4.7mm
 * matrix size: 36.5mm*36.5mm
 
-Follow the steps below and you will be able to use RGB Matrix immediately.
+.. Follow the steps below and you will be able to use RGB Matrix immediately.
 
+**Documentation**
 
 * :download:`PCB <https://github.com/sunfounder/sf-pdf/raw/master/datasheet/RGB_Matrix_for_Arduino/Arduino-8x8%20RGB%20Matrix%20Pcb.pdf>`
 * :download:`Schematic <https://github.com/sunfounder/sf-pdf/raw/master/datasheet/RGB_Matrix_for_Arduino/Arduino-8x8%20RGB%20Matrix%20Sch.pdf>`
