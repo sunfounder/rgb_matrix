@@ -13,3 +13,8 @@ Features
 * matrix size: 36.5mm*36.5mm
 
 Follow the steps below and you will be able to use RGB Matrix immediately.
+
+
+* `PCB <https://github.com/sunfounder/sf-pdf/raw/master/datasheet/RGB_Matrix_for_Arduino/Arduino-8x8%20RGB%20Matrix%20Pcb.pdf>`_
+* `Schematic <https://github.com/sunfounder/sf-pdf/raw/master/datasheet/RGB_Matrix_for_Arduino/Arduino-8x8%20RGB%20Matrix%20Sch.pdf>`_
+* `Datasheet <https://github.com/sunfounder/sf-pdf/raw/master/datasheet/RGB_Matrix_for_Arduino/IC_datasheet/SLED1734_V1.6_EN.pdf>`
