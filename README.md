@@ -4,7 +4,6 @@ Welcome to use Sunfounder RGB Matrix module. You can find the information you ne
 
 This is a module with 8 × 8 RGB LEDs on board. It also has a SH1.0-4P I2C control interface, which is convenient to connect to other I2C devices or other single-chip microcomputers.
 
-There are two versions of this module: **Arduino** and **Raspberry Pi**. Please refer to the correct chapter for your module.
 
 ## Feature
 * Working voltage: DC 3.3V  
@@ -17,15 +16,3 @@ There are two versions of this module: **Arduino** and **Raspberry Pi**. Please 
 * Pixel pitch: 1.5mm  
 * Dot size: 36.5mm*36.5mm  
   
-Follow the steps below and you will be able to use RGB Matrix immediately. have fun :)
-
-## Getting Started For Arduino
-
-1.  Go to [Setup](Arduino/doc/setup_arduino.md).
-2.  Run [Examples](Arduino/doc/examples_arduino.md).
-
-## Getting Started For Raspberry Pi 
-
-1.  Go to [Setup](Raspberrypi/doc/setup_rpi.md).
-2.  Run [Examples](Raspberrypi/doc/examples_rpi.md).
-
