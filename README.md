@@ -20,4 +20,5 @@ This is a module with 8 × 8 RGB LEDs on board. It also has a SH1.0-4P I2C contr
 ## Documentation
 
 For Arduino User : [rgb-matrix.rtfd.io](https://docs.sunfounder.com/projects/rgb-matrix/en/latest/index.html)
+
 For Raspberry Pi User : [rgb-matrix-rpi.rtfd.io](https://docs.sunfounder.com/projects/rgb-matrix-rpi/en/latest/index.html)
