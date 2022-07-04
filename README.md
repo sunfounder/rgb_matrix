@@ -15,4 +15,9 @@ This is a module with 8 × 8 RGB LEDs on board. It also has a SH1.0-4P I2C contr
 * Resolution: 8*8=64 DOTS  
 * Pixel pitch: 1.5mm  
 * Dot size: 36.5mm*36.5mm  
-  
+
+
+## Documentation
+
+For Arduino User : [rgb-matrix.rtfd.io](https://docs.sunfounder.com/projects/rgb-matrix/en/latest/index.html)
+For Raspberry Pi User : [rgb-matrix-rpi.rtfd.io](https://docs.sunfounder.com/projects/rgb-matrix-rpi/en/latest/index.html)
