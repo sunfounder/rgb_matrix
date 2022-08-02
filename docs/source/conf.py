@@ -64,14 +64,14 @@ source_suffix = ['.rst', '.md']
 # SunFounder logo
 
 #html_js_files = [
-#    'https://ezblock.cc/readDocFile/topHead.js',
+#    'https://ezblock.cc/readDocFile/custom.js',
 #]
 #html_css_files = [
-#    'https://ezblock.cc/readDocFile/topHead.css',
+#    'https://ezblock.cc/readDocFile/custom.css',
 #]
 
 html_js_files = [
-    'https://ezblock.cc/readDocFile/topHead.js',
+    'https://ezblock.cc/readDocFile/custom.js',
     'https://ezblock.cc/readDocFile/readTheDoc/src/js/ace.js',
     'https://ezblock.cc/readDocFile/readTheDoc/src/js/mode-python.js',
     'https://ezblock.cc/readDocFile/readTheDoc/src/js/mode-sh.js',
@@ -81,7 +81,7 @@ html_js_files = [
     'https://ezblock.cc/readDocFile/readTheDoc/src/js/readTheDocIndex.js',
 ]
 html_css_files = [
-    'https://ezblock.cc/readDocFile/topHead.css',
+    'https://ezblock.cc/readDocFile/custom.css',
     'https://ezblock.cc/readDocFile/readTheDoc/src/css/index.css',
     'https://ezblock.cc/readDocFile/readTheDoc/src/css/xterm.css',
 ]
